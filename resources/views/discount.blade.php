@@ -87,7 +87,7 @@
         <div class="flex justify-between items-center mb-6">
             <h1 class="text-2xl font-bold text-center">Kalkulator Diskon</h1>
             <button id="themeToggle" class="p-2 rounded-full bg-[var(--button-bg)] hover:bg-[var(--button-hover)] text-white" aria-label="Toggle dark mode" title="Ganti Tema">
-                <span id="themeIcon">☀</span>
+                <span id="themeIcon">☀️</span>
             </button>
         </div>
 
@@ -180,7 +180,7 @@
                 console.log('Mengatur tema:', theme);
                 html.setAttribute('data-theme', theme);
                 localStorage.setItem('theme', theme);
-                themeIcon.textContent = theme === 'dark' ? '☀' : '🌙';
+                themeIcon.textContent = theme === 'dark' ? '☀️' : '🌙';
                 console.log('Atribut data-theme:', html.getAttribute('data-theme'));
             }
 
@@ -237,13 +237,13 @@
 
             if (discountSlider && discountValue) {
                 discountSlider.addEventListener('input', () => {
-                    discountValue.textContent = ${discountSlider.value}%;
+                    discountValue.textContent = `${discountSlider.value}%`;
                 });
             }
 
             if (discountBSlider && discountBValue) {
                 discountBSlider.addEventListener('input', () => {
-                    discountBValue.textContent = ${discountBSlider.value}%;
+                    discountBValue.textContent = `${discountBSlider.value}%`;
                 });
             }
         });
