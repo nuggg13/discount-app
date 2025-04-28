@@ -7,17 +7,16 @@ Aplikasi ini dapat menghitung **diskon tunggal** maupun **diskon ganda** (double
 
 ## 📸 Preview Desain
 
-![Preview Mockup](../assets/mockup-preview.png)
-![Preview Mockup](../assets/mockup-preview-2.png)
-![Preview Mockup](../assets/mockup-preview-3.png)
-
+![Preview Mockup](/discount-app/assets/mockup-preview.png)
+![Preview Mockup](/discount-app/assets/mockup-preview-2.png)
+![Preview Mockup](/discount-app/assets/mockup-preview-3.png)
 ---
 
 ## 🧩 Flowchart Aplikasi
 
 Berikut adalah alur proses aplikasi Love Diskon:
 
-![Flowchart](../assets/flowchart.png)
+![Flowchart](/discount-app/Desain+flowchart/flowchart.png)
 
 ---
 
