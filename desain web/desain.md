@@ -1,9 +1,9 @@
 # Mockup dan Desain
 
-## Preview
+## Preview Mockup
 
-![Preview Mockup](/assets/ZenBook Duo.png)
+![Preview Mockup](../assets/mockup-preview.png)
 
-## Link ke Figma
+## Link ke Desain Figma
 
-👉 [Klik di sini untuk melihat desain Figma](https://www.figma.com/file/xxxxx)
+👉 [Lihat Desain Figma di sini](https://www.figma.com/file/xxxxxx/Nama-Project)
