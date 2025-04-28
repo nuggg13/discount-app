@@ -2,7 +2,7 @@
 
 ## Preview Mockup
 
-![Preview Mockup](../assets/mockup-preview.png)
+![Preview Mockup](../assets/ZenBook Duo 14.png)
 
 ## Link ke Desain Figma
 
