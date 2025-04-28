@@ -2,7 +2,7 @@
 
 ## Preview
 
-![Mockup Preview](public/ZenBook Duo 14.png)
+![Mockup Preview](ZenBook Duo 14.png)
 
 ## Link ke Figma
 
